@@ -6,18 +6,20 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [The Role of Electrical Systems in Hydraulic Systems](#2-the-role-of-electrical-systems-in-hydraulic-systems)
-3. [Types of Electrical Components Used in Hydraulic Systems](#3-types-of-electrical-components-used-in-hydraulic-systems)
-4. [Types of Sensors Used in Aircraft Hydraulic Systems](#4-types-of-sensors-used-in-aircraft-hydraulic-systems)
-5. [How Electrical Signals Interact with Hydraulic Valves and Actuators](#5-how-electrical-signals-interact-with-hydraulic-valves-and-actuators)
-6. [Failure of Electrical Components and Sensors — Causes and Consequences](#6-failure-of-electrical-components-and-sensors--causes-and-consequences)
-7. [Advantages, Limitations, and Maintenance Concerns](#7-advantages-limitations-and-maintenance-concerns)
-8. [Fly-By-Wire and Electro-Hydrostatic Actuators (EHA)](#8-fly-by-wire-and-electro-hydrostatic-actuators-eha)
-9. [Hydraulic System Redundancy and Electrical Backup](#9-hydraulic-system-redundancy-and-electrical-backup)
-10. [Certification and Safety Standards (DO-178C / ARP4754A)](#10-certification-and-safety-standards-do-178c--arp4754a)
-11. [Summary and Critical Analysis](#11-summary-and-critical-analysis)
-12. [References and Further Reading](#12-references-and-further-reading)
+Each topic below has a dedicated detailed document in the [`topics/`](./topics/) folder.
+
+1. [Introduction](./topics/01_Introduction.md) — [In-page summary](#1-introduction)
+2. [The Role of Electrical Systems in Hydraulic Systems](./topics/02_Role_of_Electrical_Systems.md) — [In-page summary](#2-the-role-of-electrical-systems-in-hydraulic-systems)
+3. [Types of Electrical Components Used in Hydraulic Systems](./topics/03_Electrical_Components.md) — [In-page summary](#3-types-of-electrical-components-used-in-hydraulic-systems)
+4. [Types of Sensors Used in Aircraft Hydraulic Systems](./topics/04_Sensors.md) — [In-page summary](#4-types-of-sensors-used-in-aircraft-hydraulic-systems)
+5. [How Electrical Signals Interact with Hydraulic Valves and Actuators](./topics/05_Electrical_Signals_and_Hydraulic_Components.md) — [In-page summary](#5-how-electrical-signals-interact-with-hydraulic-valves-and-actuators)
+6. [Failure of Electrical Components and Sensors — Causes and Consequences](./topics/06_Failure_Modes_and_Causes.md) — [In-page summary](#6-failure-of-electrical-components-and-sensors--causes-and-consequences)
+7. [Advantages, Limitations, and Maintenance Concerns](./topics/07_Advantages_Limitations_Maintenance.md) — [In-page summary](#7-advantages-limitations-and-maintenance-concerns)
+8. [Fly-By-Wire and Electro-Hydrostatic Actuators (EHA)](./topics/08_Fly_By_Wire_and_EHA.md) — [In-page summary](#8-fly-by-wire-and-electro-hydrostatic-actuators-eha)
+9. [Hydraulic System Redundancy and Electrical Backup](./topics/09_Hydraulic_Redundancy_and_Electrical_Backup.md) — [In-page summary](#9-hydraulic-system-redundancy-and-electrical-backup)
+10. [Certification and Safety Standards (DO-178C / ARP4754A)](./topics/10_Certification_and_Safety_Standards.md) — [In-page summary](#10-certification-and-safety-standards-do-178c--arp4754a)
+11. [Summary and Critical Analysis](./topics/11_Summary_and_Critical_Analysis.md) — [In-page summary](#11-summary-and-critical-analysis)
+12. [References and Further Reading](./topics/12_References.md) — [In-page summary](#12-references-and-further-reading)
 
 ---
 
@@ -761,6 +763,10 @@ The progressive reduction in traditional hydraulic maintenance (as EHAs replace 
 ---
 
 ## 12. References and Further Reading
+
+> **Full references:** See the dedicated [Topic 12 — References and Further Reading](./topics/12_References.md) document, which contains 78 fully annotated references organised by category.
+
+Key references:
 
 1. **Airbus A320 Aircraft Maintenance Manual (AMM)** — Chapter 29 (Hydraulic Power), Chapter 27 (Flight Controls). Airbus S.A.S.
 2. **Boeing 737 Next Generation AMM** — Chapter 29 (Hydraulic Power). The Boeing Company.
